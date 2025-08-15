@@ -1,0 +1,39 @@
+Projects: Short-term plans/goals
+Areas: Long-term
+Resources: Topics and interest that may be useful in future
+Archives: Completed or inactive items
+
+
+
+The app breaks down into 2 components
+- Text Editor (Future)
+- File Storage
+
+
+
+File Storage:
+Application will ask the user for a place application data
+Once the destination is defined the application will create 5 default folders along with a file
+
+The 5 folders include:
+- Projects
+- Areas
+- Resources
+- Archives
+- Unorganized
+
+The file will include the folders in the application and the order the folders are in:
+folders.txt
+'''
+Projects
+Areas
+Resources
+Archives
+Unorganized
+'''
+
+
+
+The application allows the user to create Markdown files as notes.
+With the Markdown file, the first line will be the title that the application shows.
+Notes can be in any MD format, but the application will be using the first line as Note name

@@ -1,0 +1,3 @@
+The application/user flow:
+User Opens the application, created by an empty field box. Below the box 4 boxes that represents PARA
+ 
