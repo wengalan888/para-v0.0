@@ -35,5 +35,7 @@ Unorganized
 
 
 The application allows the user to create Markdown files as notes.
-With the Markdown file, the first line will be the title that the application shows.
+With the Markdown file, the first line will be the title that the application shows. (txt for now)
 Notes can be in any MD format, but the application will be using the first line as Note name
+
+app.py on executing should read in the information from 
